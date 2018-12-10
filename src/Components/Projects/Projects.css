@@ -1,0 +1,28 @@
+#projectCards{
+    width: 120%;
+  height: 120%;
+}
+#projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 120%;
+    height: 120%;
+}
+
+#filmSize {
+    margin-left: -12px;
+    height: 239px;
+    width: 385px;
+}
+/* .card .card-content {
+    margin-top: 45px;
+    height: 150px;
+    
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+} */
